@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-alert-typescript/static/css/main.f3ee464b.css",
+    "main.js": "/react-alert-typescript/static/js/main.2c763fcf.js",
+    "index.html": "/react-alert-typescript/index.html",
+    "main.f3ee464b.css.map": "/react-alert-typescript/static/css/main.f3ee464b.css.map",
+    "main.2c763fcf.js.map": "/react-alert-typescript/static/js/main.2c763fcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3ee464b.css",
+    "static/js/main.2c763fcf.js"
+  ]
+}
